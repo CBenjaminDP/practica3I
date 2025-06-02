@@ -1,3 +1,6 @@
 [FIRST COMMIT]
 [SECOND COMIT]
 [PUSH]
+
+User2:
+[COMMIT 1]
