@@ -2,6 +2,9 @@
 [SECOND COMIT]
 [PUSH]
 
+User3:
+[COMMIT 1]
+[PUSH 1]
 User1:
 [COMMIT 1]
 [PUSH]
