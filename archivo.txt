@@ -5,3 +5,9 @@
 User1:
 [COMMIT 1]
 [PUSH]
+User2:
+[COMMIT 1]
+[COMMIT 2]
+[PUSH 1]
+[COMMIT 3]
+[PUSH 2]
