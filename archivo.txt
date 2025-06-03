@@ -4,3 +4,4 @@
 
 User1:
 [COMMIT 1]
+[PUSH]
